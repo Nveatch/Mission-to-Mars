@@ -106,9 +106,11 @@ def mars_facts():
     # inplace=True means that the updated index will remain in place, without having to reassign the DataFrame to a new variable
     df.set_index('description', inplace=True)
 
+    # Drop top row 
+    df.drop('Mars - Earth Comparison', inplace=True)
 
     # Convert dataframe into HTML format, add bootstrap
-    return df.to_html()
+    return df.to_html(index_names=False)
 
 if __name__ == "__main__":
     # If running as script, print scraped data
