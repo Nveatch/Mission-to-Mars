@@ -1,5 +1,5 @@
 # Mission-to-Mars
-![Webpage](https://github.com/Nveatch/Mission-to-Mars/blob/main/Resources/page.png))
+![Webpage](https://github.com/Nveatch/Mission-to-Mars/blob/main/Resources/page.png)
 
 ## Overview of Project
 
