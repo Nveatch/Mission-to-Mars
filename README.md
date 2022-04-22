@@ -1,4 +1,5 @@
 # Mission-to-Mars
+![Webpage](https://github.com/Nveatch/Mission-to-Mars/blob/main/Resources/page.png))
 
 ## Overview of Project
 
@@ -10,6 +11,3 @@ The purpose of this assignment was to create a responsive page in Flask that dis
 2. Code to update our Flask webpage/index.html to display these scrapped hemisphere images
 
 3. Customization of the index.html used by Flask with Bootstrap 3 components, while also making the webpage mobile-responsive
-
-## Results
-![Webpage](https://github.com/Nveatch/Mission-to-Mars/blob/main/Resources/page.png))
